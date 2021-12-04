@@ -15,8 +15,10 @@ const messages = [];
 
 io.on('connection', (socket) => {
   console.log("new connection");
+  socket.emit('update_messages', messages);
   socket.on('new_message', (data) => {
-    messages.push(data.msf);
+    console.log(data)
+    messages.push(data.msg);
     io.emit('update_messages', messages);
   });
 })
