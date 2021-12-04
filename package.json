@@ -4,7 +4,9 @@
   "description": "Estudos com Socket js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "node",
@@ -15,5 +17,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
