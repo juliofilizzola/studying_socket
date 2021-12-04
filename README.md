@@ -50,4 +50,4 @@ __-Ou rode com o Nodemon-__
 npm run dev
 ```
 
-Caso queira mudar o código, fique avontade 🚀👨🏽‍💻
+Caso queira mudar o código, fique à vontade 🚀👨🏽‍💻
