@@ -27,7 +27,7 @@ git clone git@github.com:juliofilizzola/studying_scoket.git
 __Entre nessa diretório__
 
 ```
-cd studying_scoket
+cd studying_socket
 ```
 
 __Rode esse comando no terminal__
