@@ -21,7 +21,7 @@ Faça o clone do projeto:
 __Com esse código no terminal__
 
 ```
-git clone git@github.com:juliofilizzola/studying_scoket.git
+git clone git@github.com:juliofilizzola/studying_socket.git
 
 ```
 __Entre nessa diretório__
